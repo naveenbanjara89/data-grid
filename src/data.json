@@ -1,18 +1,18 @@
 [
     {
       "id": 1,
-      "customer": "Arjun Patel",
-      "lastSeen": "08/08/2020",
-      "orders": 2,
+      "customer": "Naveen Banjara",
+      "lastSeen": "01/10/2024",
+      "orders": 7,
       "totalSpent": "$295.31",
-      "latestPurchase": "27/11/2019 à 13:12:25",
+      "latestPurchase": "27/11/2013 à 13:12:25",
       "news": true,
       "segments": "Regular"
     },
     {
       "id": 2,
-      "customer": "Sneha Desai",
-      "lastSeen": "08/08/2020",
+      "customer": "GABARU",
+      "lastSeen": "31/12/2023",
       "orders": 3,
       "totalSpent": "$647.91",
       "latestPurchase": "07/06/2020 à 07:48:18",
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "customer": "Ravi Sharma",
-      "lastSeen": "08/08/2020",
+      "customer": "RRR",
+      "lastSeen": "08/08/2024",
       "orders": 0,
       "totalSpent": "$0.00",
       "latestPurchase": "N/A",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "customer": "Pooja Verma",
+      "customer": "Neha",
       "lastSeen": "08/08/2020",
       "orders": 0,
       "totalSpent": "$0.00",
@@ -41,13 +41,13 @@
     },
     {
       "id": 5,
-      "customer": "Nikhil Yadav",
+      "customer": "Ajay G",
       "lastSeen": "08/08/2020",
       "orders": 0,
       "totalSpent": "$0.00",
       "latestPurchase": "N/A",
       "news": true,
-      "segments": "Regular"
+      "segments": "Loyal"
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "customer": "Deepak Kumar",
+      "customer": "Deepak Singh",
       "lastSeen": "08/08/2020",
       "orders": 2,
       "totalSpent": "$200.00",
@@ -71,18 +71,18 @@
     },
     {
       "id": 8,
-      "customer": "Meera Nair",
+      "customer": "Ekta Mehra",
       "lastSeen": "08/08/2020",
       "orders": 4,
-      "totalSpent": "$432.00",
-      "latestPurchase": "27/07/2020 à 15:13:11",
+      "totalSpent": "$450.00",
+      "latestPurchase": "27/07/2023 à 15:13:11",
       "news": true,
       "segments": "Loyal"
     },
     {
       "id": 9,
-      "customer": "Rohan Iyer",
-      "lastSeen": "08/08/2020",
+      "customer": "Harsh Sharma",
+      "lastSeen": "08/08/2024",
       "orders": 2,
       "totalSpent": "$250.00",
       "latestPurchase": "02/05/2020 à 18:30:45",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "customer": "Anjali Saxena",
+      "customer": "Anjali Mehta",
       "lastSeen": "08/08/2020",
       "orders": 5,
       "totalSpent": "$750.00",
@@ -101,18 +101,18 @@
     },
     {
       "id": 11,
-      "customer": "Karan Agarwal",
-      "lastSeen": "08/08/2020",
+      "customer": "Muskan Agarwal",
+      "lastSeen": "30/09/2024",
       "orders": 3,
       "totalSpent": "$570.25",
-      "latestPurchase": "28/01/2020 à 09:00:00",
+      "latestPurchase": "28/01/2023 à 09:00:00",
       "news": true,
       "segments": "Regular"
     },
     {
       "id": 12,
-      "customer": "Vijay Menon",
-      "lastSeen": "08/08/2020",
+      "customer": "Vijay Verma",
+      "lastSeen": "08/08/2023",
       "orders": 1,
       "totalSpent": "$110.10",
       "latestPurchase": "14/02/2020 à 14:00:25",
@@ -121,13 +121,13 @@
     },
     {
       "id": 13,
-      "customer": "Priya Malhotra",
-      "lastSeen": "08/08/2020",
+      "customer": "Sidarth Malhotra",
+      "lastSeen": "01/10/2024",
       "orders": 6,
-      "totalSpent": "$800.00",
-      "latestPurchase": "22/04/2020 à 10:13:17",
+      "totalSpent": "$1200.00",
+      "latestPurchase": "22/09/2024 à 10:13:17",
       "news": true,
-      "segments": "Loyal"
+      "segments": "Regular"
     },
     {
       "id": 14,
@@ -191,17 +191,17 @@
     },
     {
       "id": 20,
-      "customer": "Rajat Kulkarni",
-      "lastSeen": "08/08/2020",
-      "orders": 2,
-      "totalSpent": "$320.00",
-      "latestPurchase": "25/06/2020 à 11:09:47",
+      "customer": "Salman Bhai",
+      "lastSeen": "08/09/2024",
+      "orders": 10,
+      "totalSpent": "$1500.00",
+      "latestPurchase": "25/08/2024 à 11:09:47",
       "news": true,
       "segments": "Regular"
     },
     {
       "id": 21,
-      "customer": "Aishwarya Rao",
+      "customer": "Aishwarya Rai Bachhan",
       "lastSeen": "08/08/2020",
       "orders": 3,
       "totalSpent": "$630.00",
@@ -221,17 +221,17 @@
     },
     {
       "id": 23,
-      "customer": "Preeti Kapoor",
+      "customer": "Preeti Jangid",
       "lastSeen": "08/08/2020",
-      "orders": 1,
-      "totalSpent": "$150.00",
-      "latestPurchase": "21/06/2020 à 12:01:43",
+      "orders": 0,
+      "totalSpent": "$0.00",
+      "latestPurchase": "N/A",
       "news": false,
       "segments": "New"
     },
     {
       "id": 24,
-      "customer": "Rajesh Reddy",
+      "customer": "Daya Jethalal Gadda",
       "lastSeen": "08/08/2020",
       "orders": 0,
       "totalSpent": "$0.00",
@@ -241,12 +241,12 @@
     },
     {
       "id": 25,
-      "customer": "Sakshi Mehta",
-      "lastSeen": "08/08/2020",
-      "orders": 2,
-      "totalSpent": "$310.00",
-      "latestPurchase": "18/04/2020 à 15:25:00",
-      "news": false,
+      "customer": "Jethalal Champaklal Gadda",
+      "lastSeen": "24/06/2024",
+      "orders": 8,
+      "totalSpent": "$3100.00",
+      "latestPurchase": "18/06/2024 à 15:25:00",
+      "news": true,
       "segments": "Regular"
     }
 ]

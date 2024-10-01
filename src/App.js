@@ -19,11 +19,11 @@ function App() {
   const columns = [
     { field: 'id', headerName: 'ID', width: 70 },
     { field: 'customer', headerName: 'Customer Name', width: 200 },
-    { field: 'lastSeen', headerName: 'Last Seen', width: 150 },
+    { field: 'lastSeen', headerName: 'Last Activity', width: 150 },
     { field: 'orders', headerName: 'Orders', width: 100 },
     { field: 'totalSpent', headerName: 'Total Spent', width: 150 },
     { field: 'latestPurchase', headerName: 'Latest Purchase', width: 200 },
-    { field: 'news', headerName: 'Subscribed to News', width: 150 },
+    { field: 'news', headerName: 'News', width: 150 },
     { field: 'segments', headerName: 'Segment', width: 150 }
   ];
 

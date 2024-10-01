@@ -34,7 +34,7 @@ function App() {
         className="search-box"
         label="Search"
         variant="outlined"
-        style={{ marginBottom: 20, width: '50%' }}
+        style={{ color: 'white' }}
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
       />
@@ -45,6 +45,7 @@ function App() {
           pageSize={10}
           rowsPerPageOptions={[10]}
           checkboxSelection
+          style={{color:"black", backgroundColor:"#cadcf27a"}}
         />
       </div>
       <div className="datagrid-footer">Data last updated: 2024</div>

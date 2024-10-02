@@ -10,8 +10,14 @@ function App() {
 
   useEffect(() => {
     const filtered = data.filter((row) =>
-      row.customer.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      row.totalSpent.includes(searchTerm)
+     row.customer.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        row.id.toString().includes(searchTerm) ||
+        row.totalSpent.includes(searchTerm) ||
+        row.news.toString().includes(searchTerm) ||
+        row.orders.toString().includes(searchTerm) ||
+        row.segments.includes(searchTerm) ||
+        row.lastSeen.includes(searchTerm) ||
+        row.latestPurchase.includes(searchTerm)
     );
     setFilteredData(filtered);
   }, [searchTerm]);
